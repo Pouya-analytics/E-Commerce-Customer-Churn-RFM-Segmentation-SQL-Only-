@@ -1,0 +1,7 @@
+# This project intentionally uses only the Python standard library
+# (sqlite3) for the analysis layer -- the point of the project is to
+# demonstrate SQL skill, not pandas skill. No external dependencies
+# are required to run scripts/generate_data.py or scripts/run_query.py.
+#
+# Listed here for completeness / in case you extend the project:
+# pandas>=2.0.0
